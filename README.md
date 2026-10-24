@@ -1,6 +1,6 @@
 # Bluesky MCP Server
 
-[![smithery badge](https://smithery.ai/badge/@semioz/bluesky-mcp)](https://smithery.ai/server/@semioz/bluesky-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.semioz/bluesky-mcp)](https://lightnow.ai/servers/io.github.semioz/bluesky-mcp)
 
 A Model Context Protocol (MCP) server for Bluesky that can post on your behalf by using the AT Protocol.
 
